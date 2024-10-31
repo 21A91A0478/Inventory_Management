@@ -1,0 +1,8 @@
+2024-10-12 14:35:30,760:WARNING:Failed login attempt for username: ammu.
+2024-10-12 14:35:57,825:INFO:User 'admin' authenticated successfully as 'admin'.
+2024-10-12 14:35:57,836:INFO:Inventory read successfully.
+2024-10-12 14:35:57,848:INFO:Sales records read successfully.
+2024-10-12 14:36:48,617:INFO:Sale recorded: ['amrutha', '234567', 'amrutha@gmail.com', 'munch', '2', '10', 'Sat Oct 12 14:36:48 2024']
+2024-10-12 14:36:48,618:INFO:Processed sale: ['amrutha', '234567', 'amrutha@gmail.com', 'munch', '2', '10', 'Sat Oct 12 14:36:48 2024']
+2024-10-12 14:36:48,619:INFO:Inventory updated successfully.
+2024-10-12 14:36:55,289:INFO:User exited the system.

@@ -1,0 +1,9 @@
+Ammu,1234567890,amrutha@gmail.com,munch,1,Fri Oct 11 18:49:56 2024
+Asri,0987654321,asritha@gmail.com,pastry,2,40,Fri Oct 11 18:53:04 2024
+ammu,12345678,amrutha@gmail.com,munch,2,10,Sat Oct 12 06:51:33 2024
+ammu,123456,amrutha@gmail.com,munch,2,10,Sat Oct 12 10:35:23 2024
+ammu,234567,sadfghj,munch,1,5,Sat Oct 12 11:11:52 2024
+ammu,234567,asdfg,munch,1,5,Sat Oct 12 11:13:07 2024
+ammu,12345678,sadfghj,munch,1,5,Sat Oct 12 11:14:41 2024
+ammu,345678,sdfghj,munch,1,5,Sat Oct 12 11:15:06 2024
+amrutha,234567,amrutha@gmail.com,munch,2,10,Sat Oct 12 14:36:48 2024
