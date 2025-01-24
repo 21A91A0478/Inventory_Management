@@ -1,5 +1,0 @@
-1,munch,5,89
-2,dairymilk,10,150
-3,pastry,20,198
-4,milkybar,5,150
-5,icecream,30,200
